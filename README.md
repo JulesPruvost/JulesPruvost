@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GamendeCat?tab=repositories](https://github.com/GamendeCat?tab=repositories)
 
-- 💬 Ask me about **Java, Spigot, Bukkit, Web Development**
+- 💬 Ask me about **Java, Spigot, Bukkit, Web Development, C++, Arduino**
 
 - 📫 How to reach me **julespruvost2006@gmail.com**
 
