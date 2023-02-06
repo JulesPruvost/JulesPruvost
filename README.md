@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jules Pruvost</h1>
-<h3 align="center">I am a student who studies Industriel Sciences and is intrested in development</h3>
+<h3 align="center">I am a student who studies Industriel Sciences and is intrested in Computer Science</h3>
 
 - 🌱 I’m currently learning **Java AI**
 
